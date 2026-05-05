@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kyle Furey\Desktop\SHAKE\SHAKE\Intermediate\Build\Win64\x64\SHAKEEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\Users\Kyle Furey\Desktop\SHAKE\SHAKE\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Kyle Furey\Desktop\SHAKE\SHAKE\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\Kyle Furey\Desktop\SHAKE\SHAKE\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions-Win64-DebugGame.lib"
